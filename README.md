@@ -1,19 +1,16 @@
-# It's A Trap
-## Alert Design for Admiral Ackbar
+# Burnout in Tech
+## Lessons from Velocity Santa Clara 2015
 
-This presentation tells the story of the evolution of the alert design for 'Admiral Ackbar', the montoring and alerting system I created for Solium's Logistical Intervention and Value Engineering (LIVE) Team.
+This presentation is based on the 'Burnout in Tech' session from Velocity Santa Clara 2015 with the purpose of fostering thought and community engagement around the topic of 'burnout', specifically as it applies to Solium's LIVE Team.
 
 ### Original Presentation Date
 
-This presentation was orignally presented to [The Calgary DevOps Meetup Group](http://www.meetup.com/CalgaryDevOps/) at the [DevOps Open House at Solium](http://www.meetup.com/CalgaryDevOps/events/205471852/) on Thursday, October 23, 2014.
+This presentation has not yet been delivered.
 
-### Format
-
-This presentation is an IGNITE talk. There are 20 slides that auto-advance every fifteen seconds, for a total of five minutes!
 
 ### Viewing
 
-Checkout [thomaswsdyer.github.io/ItsATrap](http://thomaswsdyer.github.io/ItsATrap) to view this presentation.
+This presentation will be available for viewing, likely through GitHub Pages, upon completion and delivery.
 
 ### Thanks
 
